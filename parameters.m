@@ -1,5 +1,5 @@
 %% gloabl parameters
-RF_fre=28e9;%3.5GHz
+RF_fre=28e9;%28GHz
 half_wave_length=3e8/RF_fre/2;%
 
 %% Large scale fading
